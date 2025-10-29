@@ -1,4 +1,4 @@
-# 📚 Python & Data Science Learning Resources
+#  Python & Data Science Learning Resources
 
 > A curated collection of comprehensive tutorials and hands-on examples for mastering Python and data analysis with Pandas.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 About This Repository
+##  About This Repository
 
 This repository is a beginner-friendly learning resource designed to help aspiring data scientists, analysts, and Python enthusiasts build a strong foundation in programming and data manipulation. Each notebook is crafted with clear explanations, practical examples, and real-world datasets to accelerate your learning journey.
 
@@ -17,9 +17,9 @@ Whether you're just starting with Python or looking to master Pandas for data an
 
 ---
 
-## 📖 What's Inside
+##  What's Inside
 
-### 🐍 Python 101
+###  Python 101
 **Your first steps into Python programming**
 
 A comprehensive introduction to Python covering:
@@ -33,7 +33,7 @@ A comprehensive introduction to Python covering:
 
 ---
 
-### 🐼 Pandas 101
+###  Pandas 101
 **Master data manipulation and analysis**
 
 A hands-on guide to Pandas covering:
@@ -49,7 +49,7 @@ A hands-on guide to Pandas covering:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ Make sure you have Python 3.8+ installed on your system. You can download it fro
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 DS Learning/
@@ -102,7 +102,7 @@ DS Learning/
 
 ---
 
-## 🎓 Learning Path
+##  Learning Path
 
 We recommend following this sequence for optimal learning:
 
@@ -113,7 +113,7 @@ We recommend following this sequence for optimal learning:
 
 ---
 
-## 💡 How to Use These Resources
+##  How to Use These Resources
 
 ### For Self-Learners
 - Work through each notebook cell by cell
@@ -135,7 +135,7 @@ We recommend following this sequence for optimal learning:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you'd like to improve these resources:
 
@@ -155,13 +155,13 @@ Contributions are welcome! If you'd like to improve these resources:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - feel free to use these resources for learning, teaching, or any other purpose.
 
 ---
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 - Thanks to the Python and Pandas communities for excellent documentation
 - Inspired by countless learners on their data science journey
@@ -173,7 +173,7 @@ This project is licensed under the MIT License - feel free to use these resource
 
 Have questions, suggestions, or feedback? Feel free to:
 - Open an issue in this repository
-- Reach out via email: asbelkibetrotich@gmail.com
+- Reach out via email: paulmuyalikhams@gmail.com
 - Share your success stories!
 
 ---
